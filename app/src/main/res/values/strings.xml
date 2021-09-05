@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList Bootcamp</string>
+    <string name="doneTodo">FEITO</string>
+    <string name="underdoneTodo">DESFAZER</string>
+</resources>
